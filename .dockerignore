@@ -1,0 +1,7 @@
+node_modules
+http_server.js-bakcup
+npm-debug.log
+Dockerfile
+.dockerignore
+.git
+.gitignore
